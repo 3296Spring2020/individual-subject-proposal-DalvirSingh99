@@ -17,4 +17,15 @@ Due to my experience in full stack development from my internship, I could contr
 	Backend Development: Ruby on Rails(MVC), mircoservices 
 	Databases: SQL
 	Project management: Jira 
-	 
+	
+## App Architecture 
+![alt text](https://github.com/3296Spring2020/individual-subject-proposal-DalvirSingh99/blob/master/AppArchitecture.png)
+
+
+## Microservice Design
+![alt text](https://github.com/3296Spring2020/individual-subject-proposal-DalvirSingh99/blob/master/Microservice.png)
+
+
+
+
+
